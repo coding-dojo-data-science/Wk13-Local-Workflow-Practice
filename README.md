@@ -1,5 +1,5 @@
 # Wk13 Local Workflow Practice
  
+![png](barplot.png)
 
 
-<img src="barplot.png" width=600px>
